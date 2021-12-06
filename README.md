@@ -6,6 +6,8 @@
 - ⚡ I'm familiar with agile methodologies such as Scrum
 - 👽 Fun fact: I love to lift weights, play guitar, and mix music in my free time.
 
+&nbsp;
+
 <a href="(https://github-readme-stats.vercel.app/api?username=ChristianMartinezTech&show_icons=true&theme=tokyonight)">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" />
 </a>
@@ -13,6 +15,11 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat" />
 </a>
 
+</br>
+
+&nbsp;
+
+<h3> Contact me over: </h3>
 <p align="left">
 &nbsp; <a href="https://www.linkedin.com/in/christian-felipe-martinez-echeverri-7987551b6/" target="_blank" rel="noopener noreferrer"><img src="https://cdn-icons-png.flaticon.com/512/38/38669.png" width="45" /></a>
 &nbsp; <a href="https://chrismartine-e.medium.com/" target="_blank" rel="noopener noreferrer"><img src="https://cdn4.iconfinder.com/data/icons/social-media-2210/24/Medium-512.png" width="50" /></a>
