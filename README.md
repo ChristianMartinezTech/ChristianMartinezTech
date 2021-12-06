@@ -1,17 +1,17 @@
 ### Hi. It's me, Chris! 👋
 
 - 🔭 I’m currently working with Python, C, MySQL, and Shell Scripts
-- 💬 I use Procedural, OOP, and Test driven development
+- 💬 I use Procedural, OOP, and Test Driven Development
 - 🌱 I’m currently learning Javascript
 - ⚡ I'm familiar with agile methodologies such as Scrum
 - 👽 Fun fact: I love to lift weights, play guitar, and mix music in my free time.
 
 &nbsp;
 
-<a href="(https://github-readme-stats.vercel.app/api?username=ChristianMartinezTech&show_icons=true&theme=tokyonight)">
+<a href="(https://github-readme-stats.vercel.app/api?username=ChristianMartinezTech&theme=tokyonight)">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" />
 </a>
-<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=ChristianMartinezTech&show_icons=true&theme=tokyonight&layout=compact">
+<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=ChristianMartinezTech&theme=tokyonight&layout=compact">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat" />
 </a>
 
