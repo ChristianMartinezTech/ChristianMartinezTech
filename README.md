@@ -8,18 +8,10 @@
 
 &nbsp;
 
-<a href="(https://github-readme-stats.vercel.app/api?username=ChristianMartinezTech&theme=tokyonight)">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" />
-</a>
-<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=ChristianMartinezTech&theme=tokyonight&layout=compact">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat" />
-</a>
+![Chris' GitHub stats](https://github-readme-stats.vercel.app/api?username=ChristianMartinezTech&theme=tokyonight&show_icons=true)
+![Chris' GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=ChristianMartinezTech&theme=tokyonight&layout=compact&show_icons=true)
 
-</br>
-
-&nbsp;
-
-<h3> Contact me over: </h3>
+<h3> Contact Me Over: </h3>
 <p align="left">
 &nbsp; <a href="https://www.linkedin.com/in/christian-felipe-martinez-echeverri-7987551b6/" target="_blank" rel="noopener noreferrer"><img src="https://cdn-icons-png.flaticon.com/512/38/38669.png" width="45" /></a>
 &nbsp; <a href="https://chrismartine-e.medium.com/" target="_blank" rel="noopener noreferrer"><img src="https://cdn4.iconfinder.com/data/icons/social-media-2210/24/Medium-512.png" width="50" /></a>
