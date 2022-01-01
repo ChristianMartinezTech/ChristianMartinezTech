@@ -1,4 +1,4 @@
-### Hi. It's me, Chris! 👋
+### Hi there! Let's connect.👋
 
 - 🔭 I’m currently working with Python, C, MySQL, and Javascript
 - 💬 I use Procedural, OOP, and Test Driven Development
