@@ -1,9 +1,9 @@
 ### Hi. It's me, Chris! 👋
 
-- 🔭 I’m currently working with Python, C, MySQL, and Shell Scripts
+- 🔭 I’m currently working with Python, C, MySQL, and Javascript
 - 💬 I use Procedural, OOP, and Test Driven Development
-- 🌱 I’m currently learning Javascript
-- ⚡ I'm familiar with agile methodologies such as Scrum
+- 🌱 I’m learning Docker and AI
+- ⚡ I'm familiar with Agile methodologies such as Scrum
 - 👽 Fun fact: I love to lift weights, play guitar, and mix music in my free time.
 
 &nbsp;
