@@ -1,6 +1,6 @@
 ### Hi there! Let's connect.👋
 
-- 🔭 I’m currently working with Python, C, MySQL, and Javascript
+- 🔭 I’m currently working with Python, C, MySQL, and JavaScript
 - 💬 I use Procedural, OOP, and Test Driven Development
 - 🌱 I’m learning Docker and AI
 - ⚡ I'm familiar with Agile methodologies such as Scrum
